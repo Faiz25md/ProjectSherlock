@@ -25,3 +25,5 @@ AI-powered GitHub Repository Intelligence Platform
 - OpenAI / Groq
 - Embeddings
 - Retrieval-Augmented Generation (RAG)
+
+Project Sherlock development started
